@@ -6,7 +6,7 @@ namespace ruap_console_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Martine Damjanović!");
+            Console.WriteLine("Pozdrav iz aplikacije od Martine Damjanović 0118656934!");
         }
     }
 }
